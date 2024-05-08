@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Nepal?",
+      "options": ["Kathmandu", "Pokhara", "Lalitpur", "Bhaktapur"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which mountain peak is the tallest in Nepal?",
+      "options": ["Kangchenjunga", "K2", "Mount Everest", "Lhotse"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the official language of Nepal?",
+      "options": ["Nepali", "Hindi", "English", "Tibetan"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which river is the longest in Nepal?",
+      "options": [
+        "Gandaki River",
+        "Karnali River",
+        "Koshi River",
+        "Bagmati River"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the predominant religion in Nepal?",
+      "options": ["Hinduism", "Buddhism", "Christianity", "Islam"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which festival is widely celebrated in Nepal to honor the goddess Durga?",
+      "options": ["Tihar", "Holi", "Dashain", "Teej"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the traditional Nepali attire for women?",
+      "options": ["Sari", "Kurta", "Salwar Kameez", "Sari and Blouse"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which famous national park is located in Nepal and is home to a wide variety of wildlife including Bengal tigers and one-horned rhinoceroses?",
+      "options": [
+        "Royal Chitwan National Park",
+        "Sagarmatha National Park",
+        "Langtang National Park",
+        "Khaptad National Park"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the traditional Nepali bread made of?",
+      "options": ["Naan", "Roti", "Sel Roti", "Paratha"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which famous trekking route in Nepal is known as the 'Everest Base Camp Trek'?",
+      "options": [
+        "Annapurna Circuit",
+        "Langtang Valley Trek",
+        "Manaslu Circuit Trek",
+        "Khumbu Region Trek"
+      ],
+      "correctOption": 3,
+      "points": 10
+    }
+  ]
+}
